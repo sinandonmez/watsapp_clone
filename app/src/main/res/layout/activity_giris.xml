@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_margin="10dp"
+    android:orientation="vertical"
+    tools:context=".GirisActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <EditText
+            android:id="@+id/edit_phone"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:ems="10"
+            android:hint="Phone Number"
+            android:inputType="phone"
+            android:text="+905323206996" />
+
+        <Button
+            android:id="@+id/button"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:onClick="btnKisiSec"
+            android:text="Kişi Seç" />
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/btn_kodGonder"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="btnGirisPhone"
+        android:text="Kod Gönder" />
+
+    <EditText
+        android:id="@+id/edit_smsKodu"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:hint="SMS Kodu"
+        android:inputType="textPersonName"
+        android:text="123456" />
+
+    <Button
+        android:id="@+id/btn_giris"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="btnSmsKodu"
+        android:text="Giriş Yap" />
+</LinearLayout>

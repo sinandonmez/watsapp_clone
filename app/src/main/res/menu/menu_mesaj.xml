@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.tilda.watsapp1.MesajActivity">
+    <item
+        android:id="@+id/action_video"
+        android:icon="@drawable/ic_baseline_videocam_24"
+        android:orderInCategory="100"
+        android:title="Görüntülü Arama"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/action_call"
+        android:icon="@drawable/ic_baseline_call_24"
+        android:orderInCategory="100"
+        android:title="Sesli Arama"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/action_user"
+        android:orderInCategory="100"
+        android:title="Kişiyi Görüntüle"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_media"
+        android:orderInCategory="100"
+        android:title="Medya, bağlantılar ve belgeler"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_find"
+        android:orderInCategory="100"
+        android:title="Bul"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_silent"
+        android:orderInCategory="100"
+        android:title="Bildirimleri sessize al"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_wallpaper"
+        android:orderInCategory="100"
+        android:title="Duvar Kağıdı"
+        app:showAsAction="never" />
+</menu>

@@ -1,0 +1,122 @@
+{
+  "project_info": {
+    "project_number": "449036013008",
+    "firebase_url": "https://urunlerprojesi.firebaseio.com",
+    "project_id": "urunlerprojesi",
+    "storage_bucket": "urunlerprojesi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:449036013008:android:a1f82e74185406e736bdd5",
+        "android_client_info": {
+          "package_name": "com.tilda.firebaseurunleruygulamasi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "449036013008-qkiegf0auojudqncsu52mpubfdb221on.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tilda.firebaseurunleruygulamasi",
+            "certificate_hash": "fd241cf49ade1e5b1ec1bc839f68dd44e31386c0"
+          }
+        },
+        {
+          "client_id": "449036013008-k4nttva3gp111f986eu434lcps3e8gpu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkA90Fb83UzIvoxc35wzWVOAfTfGd4o5E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "449036013008-k4nttva3gp111f986eu434lcps3e8gpu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:449036013008:android:0b031bc3a2a3c45536bdd5",
+        "android_client_info": {
+          "package_name": "com.tilda.googlesigninappp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "449036013008-rmqp540da367fdin28s9e7f1g3jg485v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tilda.googlesigninappp",
+            "certificate_hash": "fd241cf49ade1e5b1ec1bc839f68dd44e31386c0"
+          }
+        },
+        {
+          "client_id": "449036013008-k4nttva3gp111f986eu434lcps3e8gpu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkA90Fb83UzIvoxc35wzWVOAfTfGd4o5E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "449036013008-k4nttva3gp111f986eu434lcps3e8gpu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:449036013008:android:01ce5fa11df4817a36bdd5",
+        "android_client_info": {
+          "package_name": "com.tilda.watsapp1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "449036013008-sd0mmfge437hqfoapdolsabvg603bv7d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tilda.watsapp1",
+            "certificate_hash": "fd241cf49ade1e5b1ec1bc839f68dd44e31386c0"
+          }
+        },
+        {
+          "client_id": "449036013008-k4nttva3gp111f986eu434lcps3e8gpu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkA90Fb83UzIvoxc35wzWVOAfTfGd4o5E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "449036013008-k4nttva3gp111f986eu434lcps3e8gpu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
